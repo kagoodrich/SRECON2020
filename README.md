@@ -1,5 +1,3 @@
-# SRECON2020
-Notes from my SREcon talks
 
 Identifying Hidden Dependencies - https://www.infoq.com/presentations/hidden-dependencies-honeycomb/?topicPageSponsorship=1882a566-2b14-4b4d-99ee-b9a83963b4c3&itm_source=presentations_about_Devops&itm_medium=link&itm_campaign=Devops
 
@@ -139,7 +137,7 @@ Security Considerations:
 4 Steps to Security Chaos Engineering 
 1.Define expected behavior of a security defense 
 2.Hypothesize that when security turbulence is introduced it will be either prevented, remediated, or detected. 
-3.Introduce a variable that introduces security turbulence.   
+3.Introduce a variable that introduces security turbulence.  
 4.Try to disprove the hypothesis by looking for a difference in expected behavior and actual behavior
 ---
 Failure is Not an Option! SRE Lessons 50 Years after the Apollo 13 Flight to the Moon - https://www.usenix.org/sites/default/files/conference/protected-files/srecon20americas_slides_barron.pdf
