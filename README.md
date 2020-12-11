@@ -135,10 +135,10 @@ Security Considerations:
 - Unit Tests for Security
 
 4 Steps to Security Chaos Engineering 
-1.Define expected behavior of a security defense 
-2.Hypothesize that when security turbulence is introduced it will be either prevented, remediated, or detected. 
-3.Introduce a variable that introduces security turbulence.  
-4.Try to disprove the hypothesis by looking for a difference in expected behavior and actual behavior
+Define expected behavior of a security defense 
+Hypothesize that when security turbulence is introduced it will be either prevented, remediated, or detected. 
+Introduce a variable that introduces security turbulence.  
+Try to disprove the hypothesis by looking for a difference in expected behavior and actual behavior
 ---
 Failure is Not an Option! SRE Lessons 50 Years after the Apollo 13 Flight to the Moon - https://www.usenix.org/sites/default/files/conference/protected-files/srecon20americas_slides_barron.pdf
 
@@ -195,4 +195,20 @@ Abstraction - a technique for arranging complexity of a computer system. It work
 Abstraction is a positive, but we lose proficiency with the foundation when that happens, it's important to not forget the people who abstraction is supposed to help (users)
 
 There needs to be a point at which we stop abstracting for the sake of abstraction
+
+---
+
+Additional Links;
+
+https://www.learningfromincidents.io/blog/incident-analysis-and-chaos-engineering
+https://copyconstruct.medium.com/monitoring-and-observability-8417d1952e1c
+https://principlesofchaos.org/
+https://www.bundesbrandschatzamt.de/~baron/blog/20150602-Literate_DevOps.html
+https://vimeo.com/369638117 - Cory Watson - How Dashboards work and how to improve them
+https://medium.com/doing-devops/your-user-hates-your-code-1a03613afeff
+https://thenextweb.com/shareables/2015/11/25/this-man-is-a-genius/
+https://www.youtube.com/watch?v=C11LNUEaHuo - Netflix Precision Chaos
+https://www.youtube.com/watch?v=CZ3wIuvmHeM - Mastering Chaos
+https://queue.acm.org/detail.cfm?id=3197520
+
 
