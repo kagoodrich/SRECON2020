@@ -59,7 +59,7 @@ Incident write-ups
 
 <https://www.usenix.org/sites/default/files/conference/protected-files/srecon20americas_slides_watson.pdf>
 
-**“Perhaps a better way is to make memory unnecessary: put the required information into the world"**
+## “Perhaps a better way is to make memory unnecessary: put the required information into the world"
 
 Dashboards;
 Looking for Surprise, Confusion, Dead Ends, Edge Cases, Inefficiency
