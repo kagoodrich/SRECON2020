@@ -1,5 +1,7 @@
 
-# Identifying Hidden Dependencies - https://www.infoq.com/presentations/hidden-dependencies-honeycomb/?topicPageSponsorship=1882a566-2b14-4b4d-99ee-b9a83963b4c3&itm_source=presentations_about_Devops&itm_medium=link&itm_campaign=Devops
+# Identifying Hidden Dependencies 
+
+https://www.infoq.com/presentations/hidden-dependencies-honeycomb/?topicPageSponsorship=1882a566-2b14-4b4d-99ee-b9a83963b4c3&itm_source=presentations_about_Devops&itm_medium=link&itm_campaign=Devops
 
 - Velocity & Reliability
 	- Quantify Reliability
@@ -8,7 +10,8 @@
 - What is too broken?
 - Everyone understands SLOs
 ---
-# Are We Getting Better Yet? - https://www.usenix.org/sites/default/files/conference/protected-files/srecon20americas_slides_elman.pdf
+# Are We Getting Better Yet? 
+https://www.usenix.org/sites/default/files/conference/protected-files/srecon20americas_slides_elman.pdf
 
 Prioritize a learn and adapt safety mode over a prevent and fix safety mode
 - Action items form a defensive strategy but do not lead to learning
@@ -39,7 +42,8 @@ Incident write-ups
 
 https://www.learningfromincidents.io/
 ---
-# Observing from Incidents - https://www.usenix.org/sites/default/files/conference/protected-files/srecon20americas_slides_watson.pdf
+# Observing from Incidents 
+https://www.usenix.org/sites/default/files/conference/protected-files/srecon20americas_slides_watson.pdf
 
 “Perhaps a better way is to make memory unnecessary: put the required information into the world"
 
@@ -48,7 +52,8 @@ Looking for Surprise, Confusion, Dead Ends, Edge Cases, Inefficiency
 
 Incidents can inform how tools can be improved
 ---
-Study on Human Factors and Team Culture to Improve Pager Fatigue - https://www.usenix.org/sites/default/files/conference/protected-files/srecon20americas_slides_barteneva.pdf
+# Study on Human Factors and Team Culture to Improve Pager Fatigue 
+https://www.usenix.org/sites/default/files/conference/protected-files/srecon20americas_slides_barteneva.pdf
 
 Becoming an agent of change
 - Write troubleshooting guides
@@ -59,7 +64,8 @@ Becoming an agent of change
 - Praise successes
 - Find/Become a mentor
 ---
-# Revisiting "Automate All The Things" - https://www.usenix.org/sites/default/files/conference/protected-files/srecon20americas_slides_reed.pdf
+# Revisiting "Automate All The Things" 
+https://www.usenix.org/sites/default/files/conference/protected-files/srecon20americas_slides_reed.pdf
 
 How to drift into failure;
 - Long running system with legacy requirement
@@ -68,12 +74,15 @@ How to drift into failure;
 - Disparate, disconnected requirements gathering 
 - Siloed testing and validation
 - Early, weak stress signals missed or ignored
+
 https://medium.com/@jpaulreed/the-737max-and-why-software-engineers-should-pay-attention-a041290994bd
+
 - Automatic systems should fail obviously. 
 - Tracing the decision trees made by algorithms can be difficult (or today, impossible). 
 - This leads to the inability to fully understand the current context of the system when you are paged.
 ---
-# Low Context DevOps: Improving SRE Team Culture through Defaults, Documentation, and Discipline - https://www.usenix.org/sites/default/files/conference/protected-files/srecon20americas_slides_limoncelli.pdf
+# Low Context DevOps: Improving SRE Team Culture through Defaults, Documentation, and Discipline
+https://www.usenix.org/sites/default/files/conference/protected-files/srecon20americas_slides_limoncelli.pdf
 
 High Conext
 - Communication is implicit
@@ -101,7 +110,8 @@ How to make your environment low context:
 Write in small batches
 Include doc time in work estimates 
 ---
-# Cloudy with a Chance of Chaos - https://www.usenix.org/sites/default/files/conference/protected-files/srecon20americas_slides_yakomin.pdf
+# Cloudy with a Chance of Chaos
+https://www.usenix.org/sites/default/files/conference/protected-files/srecon20americas_slides_yakomin.pdf
 
 Why is Chaos Engineering Valuable?
 - Infrastructure Fails all the time
@@ -113,7 +123,8 @@ Build vs Buy
 - Integrated reporting is another benefit 
 - Better documentation 
 ---
-# Pragmatic Security For SRE - https://www.usenix.org/sites/default/files/conference/protected-files/srecon20americas_slides_wickett.pdf (This was my favorite talk)
+# Pragmatic Security For SRE 
+https://www.usenix.org/sites/default/files/conference/protected-files/srecon20americas_slides_wickett.pdf (This was my favorite talk)
 
 Security is covering the wrong things, and it's hurting productivity at the same time
 
@@ -140,7 +151,8 @@ Hypothesize that when security turbulence is introduced it will be either preven
 Introduce a variable that introduces security turbulence.  
 Try to disprove the hypothesis by looking for a difference in expected behavior and actual behavior
 ---
-# Failure is Not an Option! SRE Lessons 50 Years after the Apollo 13 Flight to the Moon - https://www.usenix.org/sites/default/files/conference/protected-files/srecon20americas_slides_barron.pdf
+# Failure is Not an Option! SRE Lessons 50 Years after the Apollo 13 Flight to the Moon
+https://www.usenix.org/sites/default/files/conference/protected-files/srecon20americas_slides_barron.pdf
 
 Train for failures, and responses to failure
 Build/code for failure
@@ -152,7 +164,8 @@ Tools fail, validate your assumptions
 Avoid future failure by reducing technical debt
 Don't rely on improvisation, plan ahead
 ---
-# 3 learning of an SRE - https://www.usenix.org/sites/default/files/conference/protected-files/srecon20americas_slides_charagondla.pdf
+# 3 learning of an SRE
+https://www.usenix.org/sites/default/files/conference/protected-files/srecon20americas_slides_charagondla.pdf
 
 Proactive > Reactive
 
@@ -160,7 +173,8 @@ Proactive - Focus on building tools to minimize impact, or prevent outages
 - Chaos Engieering
 - Gamedays
 ---
-Automatically Detect the Top Performance & Scalability Issues in Distributed Architectures - https://www.usenix.org/sites/default/files/conference/protected-files/srecon20americas_slides_grabner.pdf 
+# Automatically Detect the Top Performance & Scalability Issues in Distributed Architectures 
+https://www.usenix.org/sites/default/files/conference/protected-files/srecon20americas_slides_grabner.pdf 
 
 When you move to a more distributed architecture, your dependencies  grow, and the potential impact of a failure grows along in kind
 
@@ -188,7 +202,8 @@ Kube TLS implements a webhook looking for pod creations
 Any creation request are modified to include a TLS secret with the cert and key
 
 ---
-# It's a Trap! How our Abstractions are failing us - https://www.usenix.org/sites/default/files/conference/protected-files/srecon20americas_slides_henry.pdf
+# It's a Trap! How our Abstractions are failing us
+https://www.usenix.org/sites/default/files/conference/protected-files/srecon20americas_slides_henry.pdf
 
 Abstraction - a technique for arranging complexity of a computer system. It works by establishing a level of complexity on which a person interacts with the system and suppresses the complex details below that level
 
