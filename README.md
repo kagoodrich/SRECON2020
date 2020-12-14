@@ -190,6 +190,8 @@ If it can be detected on a dashboard, it can be automated!
 ---
 # Achieving Mutual TLS: Secure Pod-to-Pod Communication Without the Hassle
 
+https://www.usenix.org/sites/default/files/conference/protected-files/srecon20americas_slides_hahn.pdf
+
 https://gitlab.com/gauntletwizard_net/kubetls
 
 Every Kubernetes pod should include an SSL cert, to verify its identity 
