@@ -1,5 +1,6 @@
+# Youtube Links - https://www.youtube.com/watch?v=2C2F5USR6N4&list=PLbRoZ5Rrl5lfLXUjFjS0mP1XzNzNZMhYN
 
-# Identifying Hidden Dependencies
+## Identifying Hidden Dependencies
 
 <https://www.infoq.com/presentations/hidden-dependencies-honeycomb/?topicPageSponsorship=1882a566-2b14-4b4d-99ee-b9a83963b4c3&itm_source=presentations_about_Devops&itm_medium=link&itm_campaign=Devops>
 
@@ -13,7 +14,7 @@ Velocity & Reliability
   
 ---
 
-# Are We Getting Better Yet?
+## Are We Getting Better Yet?
 
 <https://www.usenix.org/sites/default/files/conference/protected-files/srecon20americas_slides_elman.pdf>
 
@@ -55,11 +56,11 @@ Incident write-ups
 
 ---
 
-# Observing from Incidents
+## Observing from Incidents
 
 <https://www.usenix.org/sites/default/files/conference/protected-files/srecon20americas_slides_watson.pdf>
 
-## “Perhaps a better way is to make memory unnecessary: put the required information into the world"
+### “Perhaps a better way is to make memory unnecessary: put the required information into the world"
 
 Dashboards;
 Looking for Surprise, Confusion, Dead Ends, Edge Cases, Inefficiency
@@ -68,7 +69,7 @@ Incidents can inform how tools can be improved
 
 ---
 
-# Study on Human Factors and Team Culture to Improve Pager Fatigue
+## Study on Human Factors and Team Culture to Improve Pager Fatigue
 
 <https://www.usenix.org/sites/default/files/conference/protected-files/srecon20americas_slides_barteneva.pdf>
 
@@ -84,7 +85,7 @@ Becoming an agent of change
 
 ---
 
-# Revisiting "Automate All The Things"
+## Revisiting "Automate All The Things"
 
 <https://www.usenix.org/sites/default/files/conference/protected-files/srecon20americas_slides_reed.pdf>
 
@@ -105,7 +106,7 @@ How to drift into failure
 
 ---
 
-# Low Context DevOps: Improving SRE Team Culture through Defaults, Documentation, and Discipline
+## Low Context DevOps: Improving SRE Team Culture through Defaults, Documentation, and Discipline
 
 <https://www.usenix.org/sites/default/files/conference/protected-files/srecon20americas_slides_limoncelli.pdf>
 
@@ -123,14 +124,14 @@ Low Context
 - Codified, public, and accessible knowledge
 - Knowledge is transferable
 
-## How to make your environment low context
+### How to make your environment low context
 
 - Carefully constructed defaults
 - New Employee  onboarding time minimized
 - Make right easy
 - The lazy path guides you to the right way
   
-## Ubiquitous Documentation
+### Ubiquitous Documentation
 
 - Set expectations
 - Treat doc bugs same as software
@@ -141,7 +142,7 @@ Write in small batches & Include doc time in work estimates
 
 ---
 
-# Cloudy with a Chance of Chaos
+## Cloudy with a Chance of Chaos
 
 <https://www.usenix.org/sites/default/files/conference/protected-files/srecon20americas_slides_yakomin.pdf>
 
@@ -159,7 +160,7 @@ Build vs Buy
 
 ---
 
-# Pragmatic Security For SRE  
+## Pragmatic Security For SRE  
 
 <https://www.usenix.org/sites/default/files/conference/protected-files/srecon20americas_slides_wickett.pdf> (This was my favorite talk)
 
@@ -183,7 +184,7 @@ Security Considerations:
 - Static Code Analysis
 - Unit Tests for Security
 
-## 4 Steps to Security Chaos Engineering
+### 4 Steps to Security Chaos Engineering
 
 1. Define expected behavior of a security defense
 2. Hypothesize that when security turbulence is introduced it will be either prevented, remediated, or detected.
@@ -192,7 +193,7 @@ Security Considerations:
 
 ---
 
-# Failure is Not an Option! SRE Lessons 50 Years after the Apollo 13 Flight to the Moon
+## Failure is Not an Option! SRE Lessons 50 Years after the Apollo 13 Flight to the Moon
 
 <https://www.usenix.org/sites/default/files/conference/protected-files/srecon20americas_slides_barron.pdf>
 
@@ -208,7 +209,7 @@ Security Considerations:
 
 ---
 
-# 3 learning of an SRE
+## 3 learning of an SRE
 
 <https://www.usenix.org/sites/default/files/conference/protected-files/srecon20americas_slides_charagondla.pdf>
 
@@ -221,7 +222,7 @@ Proactive - Focus on building tools to minimize impact, or prevent outages
 
 ---
 
-# Automatically Detect the Top Performance & Scalability Issues in Distributed Architectures
+## Automatically Detect the Top Performance & Scalability Issues in Distributed Architectures
 
 <https://www.usenix.org/sites/default/files/conference/protected-files/srecon20americas_slides_grabner.pdf>
 
@@ -239,7 +240,7 @@ If it can be detected on a dashboard, it can be automated!
 
 ---
 
-# Achieving Mutual TLS: Secure Pod-to-Pod Communication Without the Hassle
+## Achieving Mutual TLS: Secure Pod-to-Pod Communication Without the Hassle
 
 <https://www.usenix.org/sites/default/files/conference/protected-files/srecon20americas_slides_hahn.pdf>
 
@@ -256,7 +257,7 @@ Any creation request are modified to include a TLS secret with the cert and key
 
 ---
 
-# It's a Trap! How our Abstractions are failing us
+## It's a Trap! How our Abstractions are failing us
 
 <https://www.usenix.org/sites/default/files/conference/protected-files/srecon20americas_slides_henry.pdf>
 
@@ -268,7 +269,7 @@ There needs to be a point at which we stop abstracting for the sake of abstracti
 
 ---
 
-# Additional Links
+## Additional Links
 
 <https://www.learningfromincidents.io/blog/incident-analysis-and-chaos-engineering>
 <https://copyconstruct.medium.com/monitoring-and-observability-8417d1952e1c>
