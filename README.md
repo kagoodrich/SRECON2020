@@ -2,7 +2,7 @@
 
 ## Identifying Hidden Dependencies
 
-<https://www.infoq.com/presentations/hidden-dependencies-honeycomb/?topicPageSponsorship=1882a566-2b14-4b4d-99ee-b9a83963b4c3&itm_source=presentations_about_Devops&itm_medium=link&itm_campaign=Devops>
+<https://www.youtube.com/watch?v=aY_k9DwxIkU>
 
 Velocity & Reliability
 
